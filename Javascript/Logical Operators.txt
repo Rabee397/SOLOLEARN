@@ -1,0 +1,6 @@
+*you can check all types of data, always return true or false
+*also known as Boolean Operators
+
+&&  both operands are true : returns true.
+||  one operands is true   : returns true.
+!   returns true if the operand is false , and false if the operand is true.

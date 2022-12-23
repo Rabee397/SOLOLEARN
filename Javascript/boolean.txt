@@ -1,0 +1,2 @@
+*boolean value of (0,null,undefined,empty-string) is false.
+*everything with a "real" value is true.

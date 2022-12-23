@@ -1,0 +1,30 @@
+*this loop executes the code block once, before checking if the condition is true , and then it will repeat the loop as 
+long as the condition is true.
+
+syntax:
+do{
+ code block
+}
+while(condition);
+
+-note the semicolon at the end of the loop . this is important.
+
+example:
+
+var i = 20;
+do{
+  document.write(i + "<br />");
+  i++;
+}
+while(i <= 25);
+
+output of this code:
+20
+21
+22
+23
+24
+25
+
+*the loop will always be executed at least once , even if the condition is false , because the code block is executed 
+before the condition is tested.

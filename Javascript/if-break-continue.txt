@@ -1,0 +1,46 @@
+#if is in lowercase letters , uppercase letters (IF,If) won't work.
+
+break:
+we use it to jump out of a loop and continue executing the code after the loop.
+example:
+for (i =0; i <= 10; i++){
+     if(i == 5){
+      break;
+    }
+  document.write(i + "<br />")
+}
+the output:
+0
+1
+2
+3
+4
+*once it reaches 5 , it will break out of the loop.
+#you can  use return keyword to return some value immediately from the loop inside of a function.this will also break the 
+loop.
+*break statement ends the execution of the loop.
+
+
+
+continue:
+#unlike the break statement, the continue statement breaks only one iteration in the loop,and continues with next iteration.
+example:
+for(i = 0 ; i <= 10 ; i++){
+   if(i == 5){
+    continue
+   }
+   document.write(i + "<br />")
+}
+the output:
+0
+1
+2
+3
+4
+6
+7
+8
+9
+10
+
+ 

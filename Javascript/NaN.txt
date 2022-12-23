@@ -1,0 +1,3 @@
+10 * '5' or  '10' * '5' will give the same result.
+#but trying to multiply a number with string values that aren't numbers , like   'sololearn' * 5   will return :NaN.
+NaN : Not a Number.

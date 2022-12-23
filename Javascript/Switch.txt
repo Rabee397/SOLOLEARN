@@ -1,0 +1,2 @@
+#often there will be no match , but we still need the program to output something ..for this we use the default keyword ,
+which specifies the code to run if there's no case match.

@@ -1,0 +1,4 @@
+*we can use it in logical statements to find out if variables or values are different.
+*you can compare all types of data with comparison operators, they'll alwayes return true or false.
+notice:
+-they only work when they're comparing the same data type, numbers with numbers , strings with strings..

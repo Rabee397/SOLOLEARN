@@ -1,0 +1,7 @@
+it assign a value to a variable , based on some condition.
+
+syntax:
+variable = (condition) ? value1 : value2
+
+example:
+var isAdult = (age < 18 ) ? "Too young " : "old enouph"

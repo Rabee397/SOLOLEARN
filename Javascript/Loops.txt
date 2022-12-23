@@ -1,0 +1,4 @@
+#loops can execute a block of code a number of times. they're handy when you want to run the same code repeatedly , adding
+a different value each time.
+*js has three types of loops : for , while , do while.
+

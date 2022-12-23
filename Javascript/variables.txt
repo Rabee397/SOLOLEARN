@@ -1,0 +1,9 @@
+#variables : are containers for storing data values.
+-the value of a variable can change throughout the program.
+-every written instruction is called (statement), and it separated by semicolon.
+rules:
+1.first letter must be letter-underscore-dollar sign.
+2.can't include mathematical or logical operator .
+3.can't contain spaces.
+
+*js is a hyphen free zone .they're reserved for subtractions.

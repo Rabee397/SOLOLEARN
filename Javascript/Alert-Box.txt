@@ -1,0 +1,8 @@
+*javascript offer three types of popup boxes , alert-prompt-confirm.
+
+Alert-Box:
+used when you want to ensure that information gets through to the user.
+-when an alert box pops up ,the user must click ok to proceed.
+-alert function takes a single parameter , which is the text displayedin the popup box.
+*to display line breaks within a popup box ,use a backslash followed by the character n.
+alert("hello\nhow are you?")

@@ -1,0 +1,1 @@
+*in javascript ,we can use the modulus operator on integers and floating point numbers

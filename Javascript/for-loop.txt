@@ -1,0 +1,15 @@
+syntax :
+for (statement 1 ; statement 2 ; statement 3 )
+{
+  code block to be executed
+}
+
+and here's what happens when it runs:
+statement 1 : is executed before the loop starts
+statement 2 : defines the condition for running the loop (the code block).
+statement 3 : is executed each time after the loop (the code block) has been executed.
+
+notice:
+-if statement 2 returns false , the loop will start over again , if it returns false , the loop will end.
+-statement 2 is also optional , but only if you put a break inside the loop , otherwise the loop will never end!.
+-statement 3 is used to change the initial variable , it also optional 

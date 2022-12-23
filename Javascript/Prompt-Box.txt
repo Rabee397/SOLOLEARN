@@ -1,0 +1,5 @@
+*is often used to have the user input a value before entering a page.
+*when a prompt box pops up ,the user will have to click either ok or cancel to proceed after entering the input value.
+
+important:
+if the user clicks ok ,the box returns the input value , if the user clicks cancel , the box returns null.

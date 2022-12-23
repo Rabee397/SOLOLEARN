@@ -1,0 +1,12 @@
+is often used to have the user verify or accept something.
+-when it pops up ,the user must click either ok or cancel to proceed.
+*if the user clicks ok ,the box returns true , if the user clicks cancel, the box returns false.
+
+example:
+var result = confirm("do you really want to leave this page?")
+if(result == true){
+ alert("thanks for visiting")
+}
+else {
+  alert("thanks for staying with us")
+}

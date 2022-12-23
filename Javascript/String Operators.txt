@@ -1,0 +1,9 @@
+Concatenation:
+we can use it (represented by the + sign) to build strings made up of multiple smaller strings , or by joining strings 
+with other types.
+Example:
+var x = "i love"
+var y = "coding"
+document.write(x+y)
+result:
+i love coding
